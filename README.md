@@ -19,4 +19,9 @@ Logistic Regression will be used to answer this questions
                               
            2.          Statsmodel
                                                       one drawback of using statmodel is by default, stats model do not use a constant term
-                                                      ![image](https://user-images.githubusercontent.com/64482231/189800840-b4d85203-62ea-4313-bc0d-160c251504a8.png)
+                                                 
+                                                 
+![image](https://user-images.githubusercontent.com/64482231/189800906-168efbb5-20a5-4e55-9935-da1dab64d847.png)
+
+
+
