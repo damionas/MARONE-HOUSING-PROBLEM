@@ -4,3 +4,6 @@
       
       1.  Will the house be sold within three months of getting listed
       2. How accurately can we estimate the effect of each of the predictor varaibles on the response variable
+
+
+Logistic Regression will be used to answer this questions
