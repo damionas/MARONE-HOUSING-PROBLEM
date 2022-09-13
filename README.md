@@ -25,3 +25,10 @@ Logistic Regression will be used to answer this questions
 
 
 
+                              TO TRAIN MULITPLE PREDICTORS USING STATSMODEL
+                              
+                              
+![image](https://user-images.githubusercontent.com/64482231/189804167-34be83d7-e2e3-41af-b569-91f43b40b2a6.png)
+
+
+
