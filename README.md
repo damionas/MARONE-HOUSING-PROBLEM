@@ -32,4 +32,7 @@ Logistic Regression will be used to answer this questions
 
 
 
-BUSINESS INSIGHTS
+##BUSINESS INSIGHTS
+      P value represents our confidence level, The results shows Residential area has a very small P value which means we are very confident Residential area has a impact on our response variable.
+      Similarly, all the values which are very small are impacting the response variable. 
+      The basic is looking at values less than 5 %. 
